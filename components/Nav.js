@@ -34,7 +34,10 @@ const Nav = () => {
           <div className="w-full self-center flex justify-end">
             <div>
               <button className="rounded-md bg-green text-bg hover:bg-purple p-2">
-                <a target="_blank" href="https://github.com/WPoulos24">
+                <a
+                  target="_blank"
+                  href="https://github.com/WPoulos24/Portfolio-WLP"
+                >
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     className="h-5 w-5"

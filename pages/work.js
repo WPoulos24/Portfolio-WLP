@@ -16,7 +16,7 @@ function Work() {
           thumbnail={LoggenThumbnail}
           id="logGenerator"
         >
-          A Log Generator for my Surveillance Operator job.
+          A Generator for Log Templates used at my Surveillance Job.
         </CardItem>
       </Section>
     </Article>
