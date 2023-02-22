@@ -1,5 +1,12 @@
-import '@/styles/globals.css'
+import "tailwindcss/tailwind.css";
+import Layout from "../components/Layout";
 
-export default function App({ Component, pageProps }) {
-  return <Component {...pageProps} />
+function MyApp({ Component, pageProps, router }) {
+  return (
+    <Layout className="bg-bg">
+      <Component {...pageProps} key={router.route} />
+    </Layout>
+  );
 }
+
+export default MyApp;
