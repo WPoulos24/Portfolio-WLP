@@ -15,7 +15,8 @@ function logGenerator() {
           stored into a variable and after all questions are answered, the log
           template is displayed to the user. The user is prompted with a copy
           button in order to easily paste the log into the software we use at
-          the job.
+          the job. I have provided a fake version for confidentiality reasons.
+          The app is identical except all names are fake.
         </p>
         <ul className=" text-justify my-6">
           <li>
@@ -24,9 +25,10 @@ function logGenerator() {
             </span>
             <a
               className="text-gray-light underline"
-              href="https://booksearch1.vercel.app/"
+              target={"_blank"}
+              href="https://log-template-generator.vercel.app/"
             >
-              https://booksearch1.vercel.app/
+              https://log-template-generator.vercel.app/
             </a>
           </li>
           <li>
