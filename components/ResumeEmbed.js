@@ -5,7 +5,7 @@ function ResumeEmbed() {
     <div className="w-full -mt-8">
       <iframe
         className="w-full"
-        src="https://docs.google.com/document/d/1Fjy1EONsgpJBqBvQ_APpL7FCjmnZrRg6/preview"
+        src="https://docs.google.com/document/d/153p-wpQEeNCAr35Q4tHrvD5ti-wbwZrrqWveuwVlejw/edit?usp=sharing"
         height={580}
       ></iframe>
     </div>
